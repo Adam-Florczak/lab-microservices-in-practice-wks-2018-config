@@ -13,7 +13,7 @@ spring:
 
 customer:
   service:
-    url: http://customer/customers/
+    url: http://customer:8080/customers/
 catalog:
   service:
-    url: http://catalog/items/
+    url: http://catalog:8080/items/
