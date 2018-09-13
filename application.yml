@@ -2,7 +2,7 @@
 info:
   name: ${spring.application.name}
   description: Microservices in Practice lab
-  url: https://github.com/xpaas-solutions/lab-microservices-in-practice
+  url: https://github.com/xpaas-solutions/lab-microservices-in-practice-wks-2018
   
 spring:
   cloud:  
